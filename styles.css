@@ -27,7 +27,7 @@ hr {
 .navbar-br-custom {
     color: #19A7CE;
     font-size: 2rem;
-    font-weight: 600;
+    font-weight: 900;
 }
 
 .navbar-br-custom:hover, .navbar-br-custom:active, .navbar-br-custom:focus {
@@ -61,15 +61,17 @@ hr {
 }
 
 .title-text-div {
-    padding-left: 6%;
+    padding: 1% 6%;
 }
 
 .title-header {
     font-size: 3rem;
+    font-weight: 900;
     line-height: 2;
 }
 
 .title-subheader {
+    color: #474E68;
     font-size: 1.5rem;
 }
 
@@ -95,6 +97,7 @@ hr {
 
 .about-blurb-header {
     font-size: 2.5rem;
+    font-weight: 900;
     line-height: 2;
 }
 
@@ -118,6 +121,7 @@ hr {
 
 .services-header {
     font-size: 2.5rem;
+    font-weight: 900;
     line-height: 2;
     padding: 1%;
 }
@@ -145,8 +149,10 @@ hr {
 
 .cta-header {
     font-size: 2.5rem;
+    font-weight: 900;
     line-height: 2;
     padding: 2% 0;
+    text-decoration: underline;
 }
 
 .sign-up-btn {
@@ -169,7 +175,7 @@ hr {
 .footer-brand {
     color: #19A7CE;
     font-size: 2rem;
-    font-weight: 600;
+    font-weight: 900;
     text-decoration: none;
 }
 
