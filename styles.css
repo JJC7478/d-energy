@@ -1,0 +1,212 @@
+/* Elements */
+body {
+    background-color: #F6F1F1;
+    font-family: 'Yeseva One', cursive;
+    margin: auto;
+}
+
+hr {
+    border-width: 5px;
+    margin: auto;
+    width: 77%;
+}
+
+/* ----------------------------------------------------------- Landing Page ---------------------------------------------------- */
+
+/* Navbar */
+
+.navbar-custom {
+    background-color: #F6F1F1;
+    padding: 1% 5%;
+}
+
+.navbar-div {
+    background-color: #F6F1F1;
+}
+
+.navbar-br-custom {
+    color: #19A7CE;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.navbar-br-custom:hover, .navbar-br-custom:active, .navbar-br-custom:focus {
+    color: #146C94;
+}
+
+.navbar-nav-custom {
+    background-color:#F6F1F1;;
+}
+
+.nav-link {
+    color: #3C4048;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.nav-link:hover, .nav-link:active, .nav-link:focus {
+    color: #6B728E;
+    text-decoration: underline;
+}
+
+/* Title */
+
+.blue-span {
+    color: #19A7CE;
+}
+
+#title {
+    background-color: #F6F1F1;
+}
+
+.title-text-div {
+    padding-left: 6%;
+}
+
+.title-header {
+    font-size: 3rem;
+    line-height: 2;
+}
+
+.title-subheader {
+    font-size: 1.5rem;
+}
+
+.title-img-div {
+    padding: 3%;
+    text-align: center;
+}
+
+.title-img {
+    width: 70%;
+}
+
+/* About Blurb */
+
+#about-blurb {
+    background-color: #FFF1DC;
+}
+
+.about-blurb-div {
+    padding: 7% 9%;
+    text-align: center;
+}
+
+.about-blurb-header {
+    font-size: 2.5rem;
+    line-height: 2;
+}
+
+.about-blurb-text {
+    font-size: 1.2rem;
+    line-height: 2;
+}
+
+/* Services */
+
+.services-div {
+    padding: 2% 0;
+    text-align: center;
+}
+
+.service-list {
+    border: 0.5rem double;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.services-header {
+    font-size: 2.5rem;
+    line-height: 2;
+    padding: 1%;
+}
+
+.service-text {
+    font-size: 1.5rem;
+    padding: 1% 0;
+}
+
+.service-text:hover {
+    background-color: #19A7CE;
+    color: #F6F1F1;
+}
+
+/* Call to action */
+
+#cta {
+    background-color: #FFF1DC;
+}
+
+.cta-div {
+    padding: 5%;
+    text-align: center;
+}
+
+.cta-header {
+    font-size: 2.5rem;
+    line-height: 2;
+    padding: 2% 0;
+}
+
+.sign-up-btn {
+    background-color: #19A7CE;
+    border-color: #19A7CE;
+}
+
+.sign-up-btn:hover, .sign-up-btn:active, .sign-up-btn:focus {
+    background-color: #146C94;
+    border-color: #146C94;
+}
+
+/* Footer */
+
+.bible-quote-div {
+    padding: 2% 0;
+    text-align: center;
+}
+
+.footer-brand {
+    color: #19A7CE;
+    font-size: 2rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.hr-div {
+    text-align: center;
+}
+
+.contact-div, .footer-link-div {
+    padding: 3% 0;
+}
+
+.contact-div {
+    display: inline-block;
+    padding-left: 13%;
+}
+
+.footer-contact {
+    line-height: 1.35;
+}
+
+.footer-link-div {
+    padding-right: 13%;
+}
+
+.footer-link-div {
+    text-align: right;
+}
+
+.footer-link {
+    color: #3C4048;
+    display: block;
+    font-size: 1.5rem;
+    padding: 0 2%;
+    text-decoration: none;
+}
+
+.footer-link:hover, .footer-link:active, .footer-link:focus {
+    color: #6B728E;
+    text-decoration: underline;
+}
