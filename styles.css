@@ -60,8 +60,12 @@ hr {
     background-color: #F6F1F1;
 }
 
+.title-div {
+    margin: 0;
+}
+
 .title-text-div {
-    padding: 1% 6%;
+    padding: 1% 5%;
 }
 
 .title-header {
@@ -109,7 +113,7 @@ hr {
 /* Services */
 
 .services-div {
-    padding: 2% 0;
+    padding: 2% 5%;
     text-align: center;
 }
 
@@ -170,6 +174,10 @@ hr {
 .bible-quote-div {
     padding: 2% 0;
     text-align: center;
+}
+
+.footer-row {
+    margin: 0;
 }
 
 .footer-brand {
